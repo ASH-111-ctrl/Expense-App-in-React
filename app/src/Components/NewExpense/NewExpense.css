@@ -1,0 +1,10 @@
+.NewExpense {
+  background-color: rgb(150, 150, 155);
+  padding: 1rem;
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+  border-radius: 16px;
+  text-align: center;
+  box-shadow: 0 1px 8px black;
+}

@@ -1,0 +1,23 @@
+.ExpenseDate {
+  display: flex;
+  flex-direction: column;
+  width: 5.5rem;
+  height: 5.5rem;
+  border: 2px solid black;
+  background-color: rgb(94, 92, 92);
+  border-radius: 16px;
+  align-items: center;
+  justify-content: center;
+}
+.month {
+  font-size: 1rem;
+  font-weight: bold;
+}
+.day {
+  font-size: 1rem;
+  font-weight: bold;
+}
+.year {
+  font-size: 1rem;
+  font-weight: bold;
+}
